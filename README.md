@@ -1,2 +1,1 @@
-#MyApp
-Basic ML feed forward network
+# Basic feed forward network
