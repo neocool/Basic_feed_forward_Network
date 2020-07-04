@@ -7,7 +7,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 import pandas as pd
 import math
-from Feed_Forward_Network.network_class import network
+from Classes.network_class import network
 
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
